@@ -1,2 +1,2 @@
-# gemini-chatbot
-It is a chatbot,used for interaction
+# gemini-pro-streamlit-chatbot
+This repository is about building a chatbot using Google's Gemini-Pro with streamlit.
